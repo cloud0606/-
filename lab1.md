@@ -33,10 +33,10 @@ link user32.lib /nologo /ENTRY:main /NODEFAULTLIB /SUBSYSTEM:WINDOWS /ALIGN:16 t
 ```
 
 使用dir命令查看目录
-​	![](D:/workspace/software-system-securirty/img/20190304-1.png)
+​	![]( img/20190304-1.png)
 运行tiny.exe
-​	![](D:/workspace/software-system-securirty/img/20190304-2.png)
+​	![]( img/20190304-2.png)
 使用winhex工具搜索字符串位置，将 World 改为CUC！并保存
-​	![](D:/workspace/software-system-securirty/img/20190304-3.png)
+​	![]( img/20190304-3.png)
 再次运行tiny.exe，更改成功
-​	![](D:/workspace/software-system-securirty/img/20190304-4.png)
+​	![](img/20190304-4.png)

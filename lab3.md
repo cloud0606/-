@@ -24,8 +24,8 @@
   ezu 地址 "更改的字符串" # 更改字符串
   ```
 
-  ![](D:/workspace/software-system-securirty/img/work3-changeMemoryInfo.png)
+  ![](img/work3-changeMemoryInfo.png)
 
 - 结果演示
 
-  ![](D:/workspace/software-system-securirty/img/work3.gif)
+  ![](img/work3.gif)
