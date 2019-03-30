@@ -15,7 +15,7 @@
   - 命令行强制加载符号表 `.load /f /i`  耗时较久 
 
 
-- 打开calc.exe
+- FIle > Attach to a Process  ,打开calc.exe
 
 - 编写脚本，内容如下，存储在c:\1.txt 
 
